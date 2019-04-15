@@ -80,7 +80,7 @@ mysqli_close($conn);
   <body class="bg-light">
     <div class="container">
   <div class="py-5 text-center">
-    <img class="d-block mx-auto mb-4" src="/web/images/s2.png" alt="" width="72" height="72">
+    <img class="d-block mx-auto mb-4" src="/images/s2.png" alt="" width="72" height="72">
     <h2>Edu Surv Survey</h2>
     <p class="lead">Hello <?php echo $_SESSION['username']; ?>.Below is a form built for students to express their views on some of the questions.After finishing the survey you can logout <a href="logout.php">here</a>.</p>
   </div>
